@@ -1,0 +1,2 @@
+# testinfo
+ini test infopedia
